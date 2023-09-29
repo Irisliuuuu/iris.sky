@@ -211,7 +211,7 @@ body {
 /* 适配手机端 */
 @media only screen and (max-width: 639px) {
     body {
-        background-image: url(../img/bg3.jpg);
+        background-image: url(../img/bg.jpg);
     }
 
     #headimg {
